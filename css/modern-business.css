@@ -14,6 +14,20 @@ body {
   }
 }
 
+.navbar {
+  background-color: #cc1a0e;
+}
+
+.navbar-brand{
+  color: white;
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
+.nav-link{
+  color: white;
+}
+
 .carousel-item {
   height: 65vh;
   min-height: 300px;
@@ -26,4 +40,7 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+.end{
+  background-color: #cc1a0e;
 }
