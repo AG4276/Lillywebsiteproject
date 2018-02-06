@@ -38,6 +38,13 @@ body {
   background-size: cover;
 }
 
+/*Sidebar Section*/
+section#sidebar {
+  width: 280px;
+  float: right;
+
+}
+
 .portfolio-item {
   margin-bottom: 30px;
 }
