@@ -1,7 +1,7 @@
-{
-    "scripts":{
+     "scripts":{
         "start": "node server.js"
     }
+{
     "title": "Modern Business",
     "name": "startbootstrap-modern-business",
     "version": "4.0.0",
